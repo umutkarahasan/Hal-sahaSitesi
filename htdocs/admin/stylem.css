@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    background-color: #4CAF50 ;
+    background-size: cover;
+    background-position: center;
+}
+
+
+nav{
+    float: right;
+    line-height: 80px;
+    
+}
+nav a:link{
+    text-decoration: none;
+    margin-right: 25px;
+    color :floralwhite;
+}
+
+nav a:hover{
+    border-bottom: 2px solid #003666 ;
+}
+
+nav a:visited{
+     text-decoration: none;
+    margin-right: 25px;
+    color :floralwhite;
+}
+
+.ikon{
+    margin-right: 7px;
+    font-size: 16px;
+}
+
+.konteynır{
+    width: 50%;
+    height: 50%;
+
+}

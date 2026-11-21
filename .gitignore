@@ -1,0 +1,9 @@
+# Editör / işletim sistemi
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Yerel ayarlar
+*.log
+.env

@@ -113,9 +113,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `ad`, `soyad`, `tel`, `email`, `sifre`, `perm`, `status`) VALUES
-(1, 'umutk', 'umut', 'karahasan', '05455816315', 'pisporo1@gmail.com', '1234', 'user', 1),
-(17, 'bugra', 'bugra', 'akar', '5454654654', 'bugra@gmail.com', '1234', 'user', 1),
-(18, 'Osman', 'Osman', 'Ak', '545651651', 'osman@gmail.com', '123', 'user', 1);
+(1, 'umutk', 'umut', 'karahasan', '05550000001', 'umut@ornek.com', '1234', 'user', 1),
+(17, 'bugra', 'bugra', 'akar', '05550000002', 'bugra@ornek.com', '1234', 'user', 1),
+(18, 'Osman', 'Osman', 'Ak', '05550000003', 'osman@ornek.com', '123', 'user', 1);
 
 --
 -- Dökümü yapılmış tablolar için indeksler
